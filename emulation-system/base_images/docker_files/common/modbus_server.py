@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Pymodbus asynchronous Server Example.
-https://github.com/FreeOpcUa/opcua-asyncio/blob/master/examples/server-minimal.py
+https://github.com/pymodbus-dev/pymodbus/blob/dev/examples/server_async.py
 
 An example of a multi threaded asynchronous server.
 
